@@ -2,7 +2,7 @@
 layout: default
 ---
 
-For links to pdf copies, go [here](https://wordpress.com/page/awhvogellab.com/12)
+For links to pdf copies, go [here](https://awhvogellab.com/publications/)
 
 ### Pre-prints
 Hakim N, Feldmann-Wüstefeld T, Awh E, Vogel EK (submitted). “Perturbing neural representations of working memory with task-irrelevant interruption. 
